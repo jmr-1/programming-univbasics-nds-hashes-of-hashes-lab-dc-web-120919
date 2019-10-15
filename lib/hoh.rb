@@ -45,6 +45,5 @@ def naming_system
   biological_hash = {}
 
   return biological_hash
-  }
 
 end
